@@ -1,5 +1,5 @@
 | Numero | Nome | Cognome | Grado |
-|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 | 0 | Paolo | De Paoli | Protettore |
 | 1 | Piero | Guano | Protettore |
 | 2 | Sergio | Camoagnoli | Protettore |
