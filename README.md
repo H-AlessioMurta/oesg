@@ -1,4 +1,6 @@
+
 | Numero | Nome | Cognome | Nome Goliardico | Grado |
+|:---:|:---:|:---:|:---:|:---:| 
 | 0 | Paolo | De Paoli | Leonardo Montaldo II | Protettore |
 | 1 | Piero | Guano | Simon Boccanegra | Protettore |
 | 2 | Sergio | Camoagnoli | Giovanni Da Murta | Protettore |
